@@ -216,6 +216,59 @@ It complements full-stack applications by demonstrating **backend engineering de
 * Cloud deployment (AWS / Azure / GCP)
 
 ---
+## 📸 System Screenshots
+
+> Note: This project includes a minimal UI layer for demonstration. The primary focus is backend architecture and service-layer design.
+
+---
+
+### 🔐 Authentication
+![Login](screenshots/login-screen.png)
+
+---
+
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+### 📦 Inventory Management
+![Products](screenshots/products.png)
+![Categories](screenshots/category.png)
+
+---
+
+### 🤝 Supplier & Customer Management
+![Suppliers](screenshots/suppliers.png)
+![Customers](screenshots/customers.png)
+
+---
+
+### 🔄 Purchase & Sales Operations
+![Purchase](screenshots/purchase-items.png)
+![Sales](screenshots/sales-outgoing-products.png)
+![Returns](screenshots/return-products.png)
+
+---
+
+### 📑 Ledger & Reports
+![Machine Ledger](screenshots/machine-ledger.png)
+![Reports](screenshots/ledger-reports.png)
+
+---
+
+### 👥 Staff & Team Management
+![Staff](screenshots/staff-engineers.png)
+![Team](screenshots/team.png)
+
+---
+
+### 🌐 Landing Pages (Optional UI)
+![Landing 1](screenshots/landing-page-1.png)
+![Landing 2](screenshots/landing-page-2.png)
+![Landing 3](screenshots/landing-page-3.png)
+![Landing 4](screenshots/landing-page-4.png)
+---
 
 ## 👨‍💻 Author
 
